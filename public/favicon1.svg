@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect width="64" height="64" rx="16" fill="url(#grad1)" />
+
+  
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        font-family="Arial, sans-serif" font-weight="bold" font-size="36"
+        fill="white">
+    PUI
+  </text>
+
+  
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8AD0DA"/>
+      <stop offset="33%" stop-color="#479ED3"/>
+      <stop offset="66%" stop-color="#3BD7C0"/>
+      <stop offset="100%" stop-color="#70EA7B"/>
+    </linearGradient>
+  </defs>
+</svg>
